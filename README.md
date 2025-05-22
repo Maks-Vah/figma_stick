@@ -1,2 +1,2 @@
 # figma_stick
-![Alt text]("Figma design.png")
+![Alt text](Figma%20design.png)
